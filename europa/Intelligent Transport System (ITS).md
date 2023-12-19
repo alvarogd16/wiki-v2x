@@ -4,11 +4,12 @@ En el estándar europeo [EN 302 665](https://www.etsi.org/deliver/etsi_en/302600
 
 Normalmente al estándar europeo se le conoce como ITS-G5 pero como veremos más adelante esta solo es una de las capas que componen el protocolo.
 
+En el informe técnico [TR 102 638](https://www.etsi.org/deliver/etsi_tr/102600_102699/102638/01.01.01_60/tr_102638v010101p.pdf) podemos encontrar una serie de aplicaciones básica de este tipo de tecnología.
 ## Pila de protocolos
 
 | Protocolos | Niveles OSI |
 | -----------| ------------|
-| Facilidades | 5, 6, 7 |
+| Servicios | 5, 6, 7 |
 | Red y transporte | 3, 4 |
 | Acceso | 1, 2 |
 
